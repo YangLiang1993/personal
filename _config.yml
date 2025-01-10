@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yang Liang / Ph.D."
+title                    : "Yang Liang"
 title_separator          : "-"
 name                     : &name "Yang Liang"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "/personal"
 author:
   # Biographic information
   avatar           : "images/profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yang Liang | Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. in Politecnico di Milano | Lecturer in GUET, China"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
